@@ -5,4 +5,4 @@ heesun park
 
 [my bio](./heesunbio.html)
 
-![Heesun](https://github.com/HeesunPark26/heesunpark26.github.io/IMG_5840.jpg)
+![Heesun](https://github.com/HeesunPark26/heesunpark26.github.io/IMG_5840.JPG)
