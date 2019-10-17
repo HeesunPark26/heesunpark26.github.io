@@ -9,7 +9,6 @@ I'm a senior undergraduate in the College of Liberal Studies at SNU, majoring in
 
 &nbsp;
 
-&nbsp;
 
 
 ### Seoul National University
