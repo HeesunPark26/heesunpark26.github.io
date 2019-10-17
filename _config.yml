@@ -3,3 +3,6 @@ title: Heesun Park
 logo: heesun_img.JPG
 description: Welcome to the Heesun's page
 show_download: True
+url: "https://heesunpark26.github.io/"
+navbar-links:
+    CV: ""
