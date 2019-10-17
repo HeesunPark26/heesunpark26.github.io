@@ -5,4 +5,5 @@ heesun park
 
 [my bio](./heesunbio.html)
 
-![Heesun](heesun_img.JPG | wide=100)
+
+<img src="heesun_img.JPG" width="300">
