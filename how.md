@@ -6,4 +6,4 @@ heesun park
 [my bio](./heesunbio.html)
 
 
-<img src="heesun_img.JPG" width="300">
+<img src="heesun_img.JPG" width="200">
