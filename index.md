@@ -1,5 +1,4 @@
 
-<img align="left" width="150" src="heesun_img.JPG">
 
 # Heesun Park
 
