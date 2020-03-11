@@ -12,7 +12,7 @@ menu:
 - {name: 'Posts', folder: 'pages', file: 'posts.html'}
 - {name: 'Projects', folder: 'pages', file: 'documentation.html'}
 - {name: 'CV', folder: 'cv-folder', file: 'CV_HSpark.pdf'}
-- {name: 'Contact', folder: 'pages', file: 'contact.mc'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
