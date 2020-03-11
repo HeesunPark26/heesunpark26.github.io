@@ -2,10 +2,16 @@
 layout: page
 title: About me
 ---
+
+
+  <p>
+    <img src="img/heesun_img.JPG" alt="Heesun" width="200">
+  </p>
+
 {% for post in site.categories.documentation %}
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/img/heesun_img)"{% endif %}>
+  <!--<a href="{{ site.github.url }}{{ post.url }}">-->
+    <!--<div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/img/heesun_img)"{% endif %}>-->
       <!--<h2><span>{{ post.title }}</span></h2>-->
-    </div>
-  </a>
+    <!--</div>
+  </a>-->
 {% endfor %}
