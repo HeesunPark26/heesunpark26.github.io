@@ -1,4 +1,47 @@
+<!--
 ---
 layout: home
 title: Home
 ---
+-->
+---
+layout: page
+title: About me
+---
+
+<div style = "font-family:Times New Roman;">
+  <p>
+    <img src="https://heesunpark26.github.io/img/heesun_img.JPG" alt="Heesun" style = "float:left; width:200px; margin-right: 20px; margin-bottom: 10px">
+  </p>
+  <p>
+    I am a M.A student studying cognitive psychology at Seoul National University.
+    I am broadly interested in understanding neural mechanisms underlying decision making and applying computational modeling to cognitive psychology research. 
+    With neuroscientific and computational approaches, I hope to understand the relationship between decision making and decision confidence (metacognition).
+  </p>
+</div>
+<div style = "clear: both;"></div>
+<div style = "font-family:Times New Roman;">
+  <h2>Interest</h2>
+  <p class="text-black mb-4" style = "font-family:Times New Roman;"> 
+            <ul>
+              <li>Metacognition</li>
+              <li>Decision-making</li>
+              <li>Neuroimaging</li>
+              <li>Computational Modeling</li>
+            </ul>
+  </p>
+  <h2>Education</h2>
+  <p class="text-black mb-3">B.A., Philosophy & B.S., Biological science (Mar, 2014 - Feb, 2020)</p>
+  <p class="text-black mb-4">Seoul National University</p>
+  <p class="text-black mb-3">M.A., Cognitive Psychology (Mar, 2020 - Current)</p>
+  <p class="text-black mb-4">Seoul National University</p>
+</div>          
+
+
+{% for post in site.categories.documentation %}
+  <!--<a href="{{ site.github.url }}{{ post.url }}">-->
+    <!--<div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/img/heesun_img)"{% endif %}>-->
+      <!--<h2><span>{{ post.title }}</span></h2>-->
+    <!--</div>
+  </a>-->
+{% endfor %}
