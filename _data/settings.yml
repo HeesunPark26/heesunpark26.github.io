@@ -10,7 +10,7 @@ menu:
 - {name: 'About me', folder: 'pages', file: 'about-me.html'}
 - {name: 'Publications', folder: 'pages', file: 'publications.html'}
 - {name: 'Posts', folder: 'pages', file: 'posts.html'}
-- {name: 'Projects', folder: 'pages', file: 'documentation.html'}
+- {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'CV', folder: 'cv-folder', file: 'CV_HSpark.pdf'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
