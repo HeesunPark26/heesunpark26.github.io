@@ -17,7 +17,7 @@
       {% for item in site.data.settings.menu %}
         {% if item.name == 'Home' %}
           <a href="{{ site.github.url }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
-        {% elif item.name == 'CV' %}
+        {% if item.name == 'CV' %}
           <a href="{{ site.github.url }}/cv-folder/{{ item.file }}" class="menu-link">{{ item.name }}</a>
         {% else %}
           <a href="{{ site.github.url }}/pages/{{ item.file }}" class="menu-link">{{ item.name }}</a>
