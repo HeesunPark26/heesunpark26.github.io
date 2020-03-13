@@ -23,13 +23,13 @@ $rss-color: #ff6600;
 }
 
 .fa-envelope {
-  padding-right: 5px;
+  padding-right: 10px;
   padding: 5px;
   @include social-media-icon($envelope-color, $icon-transition-time);
 }
 
 .fa-twitter {
-  padding-right: 5px;
+  padding-right: 10px;
   padding: 5px;
   @include social-media-icon($twitter-color, $icon-transition-time);
 }
@@ -40,7 +40,7 @@ $rss-color: #ff6600;
 }
 
 .fa-github {
-  padding-right: 5px;
+  padding-right: 10px;
   padding: 5px;
   @include social-media-icon($github-color, $icon-transition-time);
 }
@@ -81,11 +81,11 @@ $rss-color: #ff6600;
 }
 
 .fa-phone {
-  padding-right: 5px;
+  padding-right: 12px;
   padding: 5px;
 }
 
 .fa-map-marker {
-  padding-right: 5px;
+  padding-right: 12px;
   padding: 5px;
 }
