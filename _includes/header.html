@@ -15,7 +15,13 @@
     <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
     <div class="dropdown-content">
       {% for item in site.data.settings.menu %}
-        <a href="{{ site.github.url }}/pages/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+        {% if item == 'Home' %}
+          <a href="{{ site.github.url }}/{{ item.file }}" class="menu-link">Home</a>
+        {% elif item == 'CV' %}
+          <a href="{{ site.github.url }}/cv-folder/{{ item.file }}" class="menu-link">CV</a>
+        {% else %}
+          <a href="{{ site.github.url }}/pages/{{ item.file }}" class="menu-link">{{ item.name }}</a>
+        {% endif %}
       {% endfor %}
 
       {% for item in site.data.settings.social %}
