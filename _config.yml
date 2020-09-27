@@ -97,7 +97,7 @@ author:
   avatar           : /assets/images/heesun_img.JPG
   bio              : "M.A. candidate majoring Cognitive Psychology at Computational Clinical Science Laboratory, Seoul National University"
   location         : "Seoul, South Korea"
-  email            : "heesunpark26@gmail.com"
+  #email            : "heesunpark26@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
