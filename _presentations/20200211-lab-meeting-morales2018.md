@@ -1,6 +1,6 @@
 ---
-title: "Morales et al 2018"
-excerpt: "Lab meeting presentation on Morales et al 2018 (2020-02-11)"
+title: "2020-02-11 Morales et al 2018"
+excerpt: "Lab meeting presentation on Morales et al 2018"
 header:
   teaser: /assets/images/presentations-morales2018.png
 ---

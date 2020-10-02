@@ -1,6 +1,6 @@
 ---
-title: "Rouault et al 2018"
-excerpt: "Lab meeting presentation on Rouault et al 2018 (2020-05-28)"
+title: "2020-05-28 Rouault et al 2018"
+excerpt: "Lab meeting presentation on Rouault et al 2018"
 header:
   teaser: /assets/images/presentations-rouault2018.jpg
 ---
