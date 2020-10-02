@@ -1,7 +1,8 @@
 ---
 title: "Presentations"
-permalink: /presentations/
 layout: collection
+permalink: /presentations/
+collection: presentations
 entries_layout: grid
 classes: wide
 author_profile: true
