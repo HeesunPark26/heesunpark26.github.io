@@ -1,5 +1,5 @@
 ---
-title: "2020-08-20 Lebreton et al 2019"
+title: "Lebreton et al 2019"
 excerpt: "Lab meeting presentation on Lebreton et al 2019"
 header:
   teaser: /assets/images/presentations-lebreton2019.jpg
